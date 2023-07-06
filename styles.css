@@ -172,5 +172,7 @@ aside{
 }
 
 .grid button:active{
+  border:none;
+  outline:none;
   transform: scale(.95);
 }
